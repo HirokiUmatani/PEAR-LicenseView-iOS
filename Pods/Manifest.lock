@@ -1,0 +1,13 @@
+PODS:
+  - PEAR-AutoLayout-iOS (0.0.3)
+  - PEAR-PropertyListManager-iOS (0.0.2)
+
+DEPENDENCIES:
+  - PEAR-AutoLayout-iOS
+  - PEAR-PropertyListManager-iOS
+
+SPEC CHECKSUMS:
+  PEAR-AutoLayout-iOS: 5486f08f5b918b43b48f5a6dd364a2f00e514c00
+  PEAR-PropertyListManager-iOS: 1d2eae1a7bc64721de860149906b01496ecc5c4f
+
+COCOAPODS: 0.39.0
