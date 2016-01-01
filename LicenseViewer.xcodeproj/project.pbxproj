@@ -126,18 +126,26 @@
 		F45E55F51C3511EF00C8BEC0 /* Pear-LicenseView-iOS */ = {
 			isa = PBXGroup;
 			children = (
+				F45E561E1C362D4700C8BEC0 /* resource */,
 				F45E55FB1C351E6800C8BEC0 /* LicenceCellTableViewCell.h */,
 				F45E55FC1C351E6800C8BEC0 /* LicenceCellTableViewCell.m */,
-				F45E55FD1C351E6800C8BEC0 /* LicenceCellTableViewCell.xib */,
 				F45E56031C351EED00C8BEC0 /* LicenseEntity.h */,
 				F45E56041C351EED00C8BEC0 /* LicenseEntity.m */,
 				F45E56061C351EFB00C8BEC0 /* LicenseManager.h */,
 				F45E56071C351EFB00C8BEC0 /* LicenseManager.m */,
 				F45E56111C35368500C8BEC0 /* LicenseViewController.h */,
 				F45E56121C35368500C8BEC0 /* LicenseViewController.m */,
-				F45E56161C3549DE00C8BEC0 /* LicenseViewController.xib */,
 			);
 			path = "Pear-LicenseView-iOS";
+			sourceTree = "<group>";
+		};
+		F45E561E1C362D4700C8BEC0 /* resource */ = {
+			isa = PBXGroup;
+			children = (
+				F45E56161C3549DE00C8BEC0 /* LicenseViewController.xib */,
+				F45E55FD1C351E6800C8BEC0 /* LicenceCellTableViewCell.xib */,
+			);
+			path = resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
