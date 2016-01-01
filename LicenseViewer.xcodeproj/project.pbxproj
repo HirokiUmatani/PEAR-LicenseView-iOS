@@ -20,7 +20,7 @@
 		F45E56081C351EFB00C8BEC0 /* LicenseManager.m in Sources */ = {isa = PBXBuildFile; fileRef = F45E56071C351EFB00C8BEC0 /* LicenseManager.m */; };
 		F45E56141C35368500C8BEC0 /* LicenseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F45E56121C35368500C8BEC0 /* LicenseViewController.m */; };
 		F45E56171C3549DE00C8BEC0 /* LicenseViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F45E56161C3549DE00C8BEC0 /* LicenseViewController.xib */; };
-		F45E561D1C3575B200C8BEC0 /* Pods-acknowledgements.plist in Resources */ = {isa = PBXBuildFile; fileRef = F45E561C1C3575B200C8BEC0 /* Pods-acknowledgements.plist */; };
+		F45E56201C36346A00C8BEC0 /* Pods-acknowledgements.plist in Resources */ = {isa = PBXBuildFile; fileRef = F45E561F1C36346A00C8BEC0 /* Pods-acknowledgements.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,7 +47,7 @@
 		F45E56111C35368500C8BEC0 /* LicenseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LicenseViewController.h; sourceTree = "<group>"; };
 		F45E56121C35368500C8BEC0 /* LicenseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LicenseViewController.m; sourceTree = "<group>"; };
 		F45E56161C3549DE00C8BEC0 /* LicenseViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LicenseViewController.xib; sourceTree = "<group>"; };
-		F45E561C1C3575B200C8BEC0 /* Pods-acknowledgements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Pods-acknowledgements.plist"; sourceTree = "<group>"; };
+		F45E561F1C36346A00C8BEC0 /* Pods-acknowledgements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Pods-acknowledgements.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,7 +117,7 @@
 		F45E55DE1C35118C00C8BEC0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				F45E561C1C3575B200C8BEC0 /* Pods-acknowledgements.plist */,
+				F45E561F1C36346A00C8BEC0 /* Pods-acknowledgements.plist */,
 				F45E55DF1C35118C00C8BEC0 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -212,7 +212,7 @@
 				F45E55FF1C351E6800C8BEC0 /* LicenceCellTableViewCell.xib in Resources */,
 				F45E55EE1C35118C00C8BEC0 /* LaunchScreen.storyboard in Resources */,
 				F45E55EB1C35118C00C8BEC0 /* Assets.xcassets in Resources */,
-				F45E561D1C3575B200C8BEC0 /* Pods-acknowledgements.plist in Resources */,
+				F45E56201C36346A00C8BEC0 /* Pods-acknowledgements.plist in Resources */,
 				F45E56171C3549DE00C8BEC0 /* LicenseViewController.xib in Resources */,
 				F45E55E91C35118C00C8BEC0 /* Main.storyboard in Resources */,
 			);
